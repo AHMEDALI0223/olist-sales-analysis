@@ -1,0 +1,12 @@
+# Raw Kaggle CSV files
+*.csv
+
+# Power BI intermediate data folder
+powerbi_data/
+
+# Jupyter & Python cache
+.ipynb_checkpoints/
+__pycache__/
+
+# Environment variables
+.env
